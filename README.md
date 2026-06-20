@@ -1,1 +1,2 @@
 # RoyciousProjectTask4
+This project involved importing a cleaned supermarket sales dataset into SQLite and performing data analysis using SQL queries. Various SQL concepts were applied, including SELECT, WHERE, ORDER BY, GROUP BY, aggregate functions (SUM and AVG), subqueries, views, and indexes. The queries were used to analyse sales performance, customer behaviour, product performance, and payment trends. The project demonstrates the use of SQL for data retrieval, summarisation, and business insight generation from a relational database.
